@@ -1,4 +1,4 @@
-menu "Liblightmodbus"
+menu "liblightmodbus"
    
    config LIGHTMODBUS_DEBUG
         bool "Debug utilities"
