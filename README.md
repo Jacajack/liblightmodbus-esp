@@ -1,6 +1,6 @@
 # ESP-IDF
 
-This branch contains an ESP-IDF component. It can be cloned directly to your components directory with this command:
+This repository contains an ESP-IDF component for [liblightmodbus](https://github.com/Jacajack/liblightmodbus). It can be cloned directly to your components directory with this command:
 ```
-git clone --single-branch --branch esp-idf https://github.com/Jacajack/liblightmodbus.git
+git clone https://github.com/Jacajack/liblightmodbus-esp.git
 ```
