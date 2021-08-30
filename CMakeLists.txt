@@ -5,7 +5,7 @@ set(LIBLIGHTMODBUS_REPO_DIR "${CMAKE_CURRENT_LIST_DIR}/repo")
 # Fetch liblightmodbus source code from GitHub
 FetchContent_Populate(liblightmodbus-src
 	GIT_REPOSITORY "https://github.com/jacajack/liblightmodbus.git"
-	GIT_TAG        "dev-v3.0"
+	GIT_TAG        "master"
 	SOURCE_DIR     "${LIBLIGHTMODBUS_REPO_DIR}"
 )
 
